@@ -1,0 +1,11 @@
+{
+    "require": {
+        "htmlburger/carbon-fields-plugin": "^3.3",
+        "monolog/monolog": "^2.9"
+    },
+    "config": {
+        "allow-plugins": {
+            "composer/installers": false
+        }
+    }
+}
